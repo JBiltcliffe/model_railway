@@ -16,7 +16,7 @@ high_threshold = 0.146
 low_threshold = 0.14
 
 #LED timing in seconds
-orange_pause = 1
+orange_pause = 3
 flash_rate = 0.25
 
 #ADC steps to volts conversion factor - fixed for Pi Pico
